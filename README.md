@@ -68,6 +68,8 @@ Lemmy Redirect currently supports the following clients:
 - [Jerboa](https://github.com/dessalines/jerboa).
 - [Liftoff](https://github.com/liftoff-app/liftoff).
 - [Summit](https://lemmy.world/c/summit).
+- [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+- [Sync](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync)
 
 If your favorite client isn't on the list, consider creating an issue on their code repository linking to the section below, ***but please search through the existing issues first, including ones that have been closed***. Pestering developers won't help anyone.
 
